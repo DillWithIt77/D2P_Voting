@@ -1,0 +1,27 @@
+Libraries,Street,City,State,Zipcode,Latitude,Longitude,"Accuracy Score","Accuracy Type",Number,Street,"Unit Type","Unit Number",City,State,County,Zip,Country,Source,"Congressional District",Congress
+"Central Library","10 W. Fourteenth Ave. Pkwy.",Denver,CO,80204,39.734841,-105.020394,0.3,place,,,,,Denver,CO,"Denver County",80204,US,"TIGER/Line® dataset from the US Census Bureau",CO1,116th
+"Athmar Park Branch Library","1055 S. Tejon Street",Denver,CO,80223,39.697129,-105.013285,1,rooftop,1055,"S Tejon St",,,Denver,CO,"Denver County",80223,US,Denver,CO1,116th
+"Ross-Barnum Branch Library","3570 W. First Avenue",Denver,CO,80219,39.717906,-105.034555,1,rooftop,3570,"W 1st Ave",,,Denver,CO,"Denver County",80219,US,Denver,CO1,116th
+"Bear Valley Branch Library","5171 W. Dartmouth Ave.",Denver,CO,80236,39.656551,-105.051467,1,rooftop,5171,"W Dartmouth Ave",,,Denver,CO,"Denver County",80236,US,Denver,CO1,116th
+"Blair-Caldwell African American Research Library","2401 Welton St.",Denver,CO,80205,39.752499,-104.981475,1,rooftop,2401,"Welton St",,,Denver,CO,"Denver County",80205,US,Denver,CO1,116th
+"Ross-Broadway Branch Library","33 E. Bayaud Avenue",Denver,CO,80209,39.714975,-104.986615,1,rooftop,33,"E Bayaud Ave",,,Denver,CO,"Denver County",80209,US,Denver,CO1,116th
+"Byers Branch Library","675 Santa Fe Dr.",Denver,CO,80204,39.726918,-104.998739,1,range_interpolation,675,"Santa Fe Dr",,,Denver,CO,"Denver County",80204,US,"TIGER/Line® dataset from the US Census Bureau",CO1,116th
+"Ross-Cherry Creek Branch Library","305 Milwaukee Street",Denver,CO,80206,39.721037,-104.952355,1,range_interpolation,305,"Milwaukee St",,,Denver,CO,"Denver County",80206,US,"TIGER/Line® dataset from the US Census Bureau",CO1,116th
+"Decker Branch Library","1501 S. Logan St.",Denver,CO,80210,39.689277,-104.982983,1,rooftop,1501,"S Logan St",,,Denver,CO,"Denver County",80210,US,Denver,CO1,116th
+"Eugene Field Branch Library","810 S. University Blvd.",Denver,CO,80209,39.70175,-104.958905,1,rooftop,810,"S University Blvd",,,Denver,CO,"Denver County",80209,US,Denver,CO1,116th
+"Ford-Warren Branch Library","2825 High St.",Denver,CO,80205,39.757453,-104.965059,0.9,rooftop,2825,"N High St",,,Denver,CO,"Denver County",80205,US,Denver,CO1,116th
+"Green Valley Ranch Branch Library","4856 N. Andes Ct.",Denver,CO,80249,39.784856,-104.767213,1,rooftop,4856,"N Andes Ct",,,Denver,CO,"Denver County",80249,US,Denver,CO1,116th
+"Hadley Branch Library","1890 S. Grove St.",Denver,CO,80219,39.682542,-105.025893,1,rooftop,1890,"S Grove St",,,Denver,CO,"Denver County",80219,US,Denver,CO1,116th
+"Hampden Branch Library","9755 E. Girard Ave.",Denver,CO,80231,39.654643,-104.87468,1,rooftop,9755,"E Girard Ave",,,Denver,CO,"Denver County",80231,US,Arapahoe,CO1,116th
+"Montbello Branch Library","12955 Albrook Dr.",Denver,CO,80239,39.779611,-104.839991,1,range_interpolation,12955,"Albrook Dr",,,Denver,CO,"Denver County",80239,US,"TIGER/Line® dataset from the US Census Bureau",CO1,116th
+"Park Hill Branch Library","4705 Montview Blvd.",Denver,CO,80207,39.747552,-104.932768,1,range_interpolation,4705,"Montview Blvd",,,Denver,CO,"Denver County",80207,US,"TIGER/Line® dataset from the US Census Bureau",CO1,116th
+"Pauline Robinson Branch Library","5575 E. 33rd Ave.",Denver,CO,80207,39.76403,-104.922699,1,rooftop,5575,"E 33rd Ave",,,Denver,CO,"Denver County",80207,US,Denver,CO1,116th
+"Rodolfo ""Corky"" Gonzales Branch Library","1498 N. Irving Street",Denver,CO,80204,39.740129,-105.029721,1,rooftop,1498,"N Irving St",,,Denver,CO,"Denver County",80204,US,Denver,CO1,116th
+"Sam Gary Branch Library","2961 Roslyn St.",Denver,CO,80238,39.758846,-104.900686,0.9,rooftop,2961,"N Roslyn St",,,Denver,CO,"Denver County",80238,US,Statewide,CO1,116th
+"Schlessman Family Branch Library","100 Poplar St.",Denver,CO,80220,39.718677,-104.904956,1,range_interpolation,100,"Poplar St",,,Denver,CO,"Denver County",80220,US,"TIGER/Line® dataset from the US Census Bureau",CO1,116th
+"Smiley Branch Library","4501 W. 46th Avenue",Denver,CO,80212,39.780391,-105.045106,1,rooftop,4501,"W 46th Ave",,,Denver,CO,"Denver County",80212,US,Denver,CO1,116th
+"Ross-University Hills Branch Library","4310 E. Amherst Avenue",Denver,CO,80222,39.665204,-104.937327,1,rooftop,4310,"E Amherst Ave",,,Denver,CO,"Denver County",80222,US,Statewide,CO1,116th
+"Valdez-Perry Branch Library","4690 Vine Street",Denver,CO,80216,39.781817,-104.962255,1,range_interpolation,4690,"Vine St",,,Denver,CO,"Denver County",80216,US,"TIGER/Line® dataset from the US Census Bureau",CO1,116th
+"Virginia Village Branch Library","1500 S. Dahlia Street",Denver,CO,80222,39.688861,-104.9311,1,rooftop,1500,"S Dahlia St",,,Denver,CO,"Denver County",80222,US,Denver,CO1,116th
+"Westwood Branch Library","1000 S. Lowell Blvd.",Denver,CO,80219,39.698518,-105.033682,1,rooftop,1000,"S Lowell Blvd",,,Denver,CO,"Denver County",80219,US,Denver,CO1,116th
+"Woodbury Branch Library","3265 Federal Blvd.",Denver,CO,80211,39.76279,-105.025392,1,range_interpolation,3265,"Federal Blvd",,,Denver,CO,"Denver County",80211,US,"TIGER/Line® dataset from the US Census Bureau",CO1,116th
